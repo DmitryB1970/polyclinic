@@ -1,0 +1,6 @@
+
+doctor:
+  dentist-fee: 1500
+  therapist-fee: 500
+  juniorSurgeon-fee: 700
+  seniorSurgeon-fee: 2000
